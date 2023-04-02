@@ -1,0 +1,18 @@
+.class-project{
+    background-color:rgb(236, 185, 228);
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+
+#number{
+    color: blue;
+    font-size: 36px;
+}
+
+.two{
+    font-size: 36px;
+}
+#idk{
+    background-color: rgb(166, 240, 166);
+    font-size: 24px;
+    font-weight: bold;
+}
